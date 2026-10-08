@@ -1,19 +1,16 @@
 <div align="center">
 
-  <!-- Game Dev Custom Banner -->
-  <img src="./assets/banner.jpg" width="100%" alt="Game Dev Workspace Banner" />
+  <!-- Clean Vector Header (Capsule Render) -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:0d1117&height=220&section=header&text=DHAFIR&fontSize=52&fontColor=58a6ff&animation=fadeIn&fontAlignY=40&desc=Student%20%26%20Aspiring%20Game%20Developer&descSize=18&descAlignY=62&descAlign=50" width="100%" alt="Header" />
 
-  <br /><br />
+  <br />
 
-  <!-- Typing SVG Title -->
+  <!-- Typing SVG -->
   <a href="https://github.com/dhafirf2-ai">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&pause=1200&color=58A6FF&center=true&vCenter=true&width=500&lines=Hi+there%2C+I'm+Dhafir+%F0%9F%91%8B;Student+%26+Aspiring+Game+Dev;Building+with+Godot%2C+Unity+%26+Roblox;Crafting+mechanics+%26+virtual+worlds" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&pause=1200&color=58A6FF&center=true&vCenter=true&width=500&lines=Building+with+Godot%2C+Unity+%26+Roblox;Crafting+mechanics+%26+virtual+worlds;Constantly+learning+%26+prototyping" alt="Typing SVG" />
   </a>
 
-  <p align="center">
-    🎮 <b>Student & Aspiring Game Developer</b><br />
-    Exploring game engines, mechanics programming, and interactive virtual worlds.
-  </p>
+  <br /><br />
 
   <!-- Contact Badge -->
   <a href="mailto:dhafir.f2@gmail.com">
