@@ -1,15 +1,16 @@
 <div align="center">
 
-  <h1 align="center">Hi there, I'm Dhafir 👋</h1>
+  <!-- Custom Dark SVG Banner -->
+  <img src="./assets/banner.svg" width="100%" alt="Dhafir Game Dev Banner" />
+
+  <br /><br />
 
   <!-- Typing SVG -->
   <a href="https://github.com/dhafirf2-ai">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&pause=1200&color=58A6FF&center=true&vCenter=true&width=500&lines=Student+%26+Aspiring+Game+Dev;Building+with+Godot%2C+Unity+%26+Roblox;Crafting+mechanics+%26+virtual+worlds;Constantly+learning+%26+prototyping" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&pause=1200&color=58A6FF&center=true&vCenter=true&width=500&lines=Building+with+Godot%2C+Unity+%26+Roblox;Crafting+mechanics+%26+virtual+worlds;Constantly+learning+%26+prototyping" alt="Typing SVG" />
   </a>
 
-  <p align="center">
-    🎮 Exploring game engines, gameplay programming, and interactive virtual worlds.
-  </p>
+  <br /><br />
 
   <!-- Contact Badge -->
   <a href="mailto:dhafir.f2@gmail.com">
