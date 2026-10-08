@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 240" width="100%" height="100%">
+  <defs>
+    <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0d1117" />
+      <stop offset="50%" stop-color="#161b22" />
+      <stop offset="100%" stop-color="#0a0d12" />
+    </linearGradient>
+    <linearGradient id="accentGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#58a6ff" />
+      <stop offset="50%" stop-color="#a371f7" />
+      <stop offset="100%" stop-color="#39d353" />
+    </linearGradient>
+    <linearGradient id="textGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#ffffff" />
+      <stop offset="100%" stop-color="#c9d1d9" />
+    </linearGradient>
+    <pattern id="gridPattern" width="30" height="30" patternUnits="userSpaceOnUse">
+      <path d="M 30 0 L 0 0 0 30" fill="none" stroke="#30363d" stroke-width="0.5" stroke-opacity="0.3" />
+    </pattern>
+  </defs>
+
+  <!-- Card Background -->
+  <rect width="900" height="240" rx="16" fill="url(#bgGrad)" stroke="#30363d" stroke-width="1.5" />
+  
+  <!-- Grid Texture Overlay -->
+  <rect width="900" height="240" rx="16" fill="url(#gridPattern)" />
+
+  <!-- Top Window Header -->
+  <circle cx="35" cy="28" r="5" fill="#ff5f56" />
+  <circle cx="52" cy="28" r="5" fill="#ffbd2e" />
+  <circle cx="69" cy="28" r="5" fill="#27c93f" />
+  
+  <rect x="360" y="18" width="180" height="20" rx="10" fill="#0d1117" stroke="#30363d" stroke-width="1" />
+  <text x="450" y="32" fill="#8b949e" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="11" font-weight="500" text-anchor="middle">~/dhafir/game-dev</text>
+
+  <!-- Top Accent Bar -->
+  <line x1="20" y1="48" x2="880" y2="48" stroke="#21262d" stroke-width="1" />
+
+  <!-- Main Title -->
+  <text x="450" y="112" fill="url(#textGrad)" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'JetBrains Mono', monospace" font-size="36" font-weight="800" text-anchor="middle" letter-spacing="3">DHAFIR NAND</text>
+
+  <!-- Role Subtitle -->
+  <text x="450" y="148" fill="#58a6ff" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', monospace" font-size="15" font-weight="600" text-anchor="middle" letter-spacing="1.5">STUDENT &amp; ASPIRING GAME DEVELOPER</text>
+
+  <!-- Tagline / Skills -->
+  <text x="450" y="180" fill="#8b949e" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', monospace" font-size="13" text-anchor="middle">Building mechanics &amp; virtual worlds with Godot • Unity • Roblox Studio</text>
+
+  <!-- Bottom Accent Gradient Line -->
+  <rect x="250" y="206" width="400" height="3" rx="1.5" fill="url(#accentGrad)" />
+</svg>
