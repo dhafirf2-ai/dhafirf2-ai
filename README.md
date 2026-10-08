@@ -1,9 +1,3 @@
-<div align="center">
-  <img src="./assets/banner.svg" width="100%" alt="Dhafir Game Dev" />
-</div>
-
-<br />
-
 ### dhafir
 student & aspiring game dev. experimenting with godot, unity, and roblox studio.
 
