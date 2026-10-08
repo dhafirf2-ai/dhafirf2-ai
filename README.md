@@ -1,16 +1,15 @@
 <div align="center">
 
-  <!-- Clean Vector Header (Capsule Render) -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:0d1117&height=220&section=header&text=DHAFIR&fontSize=52&fontColor=58a6ff&animation=fadeIn&fontAlignY=40&desc=Student%20%26%20Aspiring%20Game%20Developer&descSize=18&descAlignY=62&descAlign=50" width="100%" alt="Header" />
-
-  <br />
+  <h1 align="center">Hi there, I'm Dhafir 👋</h1>
 
   <!-- Typing SVG -->
   <a href="https://github.com/dhafirf2-ai">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&pause=1200&color=58A6FF&center=true&vCenter=true&width=500&lines=Building+with+Godot%2C+Unity+%26+Roblox;Crafting+mechanics+%26+virtual+worlds;Constantly+learning+%26+prototyping" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&pause=1200&color=58A6FF&center=true&vCenter=true&width=500&lines=Student+%26+Aspiring+Game+Dev;Building+with+Godot%2C+Unity+%26+Roblox;Crafting+mechanics+%26+virtual+worlds;Constantly+learning+%26+prototyping" alt="Typing SVG" />
   </a>
 
-  <br /><br />
+  <p align="center">
+    🎮 Exploring game engines, gameplay programming, and interactive virtual worlds.
+  </p>
 
   <!-- Contact Badge -->
   <a href="mailto:dhafir.f2@gmail.com">
